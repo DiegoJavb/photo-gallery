@@ -23,7 +23,6 @@ const Tab2: React.FC = () => {
                 <IonImg src={photo.webviewPath} />
               </IonCol>
             ))}
-              
           </IonRow>
         </IonGrid>
         <IonFab vertical="bottom" horizontal="center" slot="fixed">
